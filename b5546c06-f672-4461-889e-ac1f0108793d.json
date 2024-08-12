@@ -1,0 +1,320 @@
+{
+    "emails": [
+        {
+            "name": "Jennifer Hsu",
+            "email": "jennifer.hsu@tfaconnect.com"
+        },
+        {
+            "name": "Eva Marie Petell Zagala",
+            "email": "eva.zagala@aegon.com"
+        },
+        {
+            "name": "Zurishe patterson",
+            "email": "zurishe.patterson@aegon.com"
+        },
+        {
+            "name": "Nicole Rios",
+            "email": "nrios@orangetheoryfitness.com"
+        },
+        {
+            "name": "RJ Cohen",
+            "email": "rjcohen@orangetheoryfitness.com"
+        },
+        {
+            "name": "Omar Haram",
+            "email": "o@orangetheoryfitness.com"
+        },
+        {
+            "name": "Jessica Gallant",
+            "email": "jessica.gallant@arbonne.com"
+        },
+        {
+            "name": "Lola Miranda",
+            "email": "lola.miranda@arbonne.com"
+        },
+        {
+            "name": "Tori Wilcoxson",
+            "email": "twilcoxson@arbonne.com"
+        },
+        {
+            "name": "Natalie Martyn",
+            "email": "natalie.martyn@paramount.com"
+        },
+        {
+            "name": "David Medina",
+            "email": "david.medina@paramount.com"
+        },
+        {
+            "name": "Tony Laner",
+            "email": "tony.laner@paramount.com"
+        },
+        {
+            "name": "Jaclyn Claiborne",
+            "email": "jclaiborne@amplify.com"
+        },
+        {
+            "name": "Nina Sovani",
+            "email": "nsovani@amplify.com"
+        },
+        {
+            "name": "Jamry Jones, PMP",
+            "email": "jjones@amplify.com"
+        },
+        {
+            "name": "Innetta Dziugelis",
+            "email": "innetta.dziugelis@clubpilates.com"
+        },
+        {
+            "name": "Lori James",
+            "email": "lori.james@clubpilates.com"
+        },
+        {
+            "name": "Emese Horvath",
+            "email": "emese.horvath@clubpilates.com"
+        },
+        {
+            "name": "Brennan Bown, CPA",
+            "email": "brennan.bown@connorgrp.com"
+        },
+        {
+            "name": "Natalia Weeks, CIA, CRMA",
+            "email": "natalia.weeks@connorgrp.com"
+        },
+        {
+            "name": "Tim Youngberg, CPA",
+            "email": "tim.youngberg@connorgrp.com"
+        },
+        {
+            "name": "Monica Eads",
+            "email": "monica@drata.com"
+        },
+        {
+            "name": "Abby Carlson",
+            "email": "abbycarlson@drata.com"
+        },
+        {
+            "name": "Kaleigh McGregor",
+            "email": "kaleighmcgregor@drata.com"
+        },
+        {
+            "name": "Gary Courtney",
+            "email": "gcourtney@jff.org"
+        },
+        {
+            "name": "Nancy Park",
+            "email": "npark@jff.org"
+        },
+        {
+            "name": "Megan Soetaert",
+            "email": "msoetaert@jff.org"
+        },
+        {
+            "name": "Bailey Nagel",
+            "email": "bailey.nagel@uplight.com"
+        },
+        {
+            "name": "Hilary Swan",
+            "email": "hilary.swan@uplight.com"
+        },
+        {
+            "name": "Chris Lefaivre",
+            "email": "chris.lefaivre@uplight.com"
+        },
+        {
+            "name": "Maria Ortiz",
+            "email": "maria.perez@aspeninstitute.org"
+        },
+        {
+            "name": "Karen Huffman",
+            "email": "karen.huffman@aspeninstitute.org"
+        },
+        {
+            "name": "Malacci Sperry",
+            "email": "malacci.ohrt@aspeninstitute.org"
+        },
+        {
+            "name": "Faisal Shahid",
+            "email": "faisal@junipersquare.com"
+        },
+        {
+            "name": "Francesco Montefusco",
+            "email": "fmontefusco@junipersquare.com"
+        },
+        {
+            "name": "Logan Buckner",
+            "email": "logan@junipersquare.com"
+        },
+        {
+            "name": "Diana Arana",
+            "email": "darana@fabletics.com"
+        },
+        {
+            "name": "Anna Towle",
+            "email": "at@fabletics.com"
+        },
+        {
+            "name": "Shelby Page",
+            "email": "spage@fabletics.com"
+        },
+        {
+            "name": "Steven A. Jackson, SPHR",
+            "email": "steven.jackson@rmi.org"
+        },
+        {
+            "name": "Jayanthi Sriram",
+            "email": "jsriram@rmi.org"
+        },
+        {
+            "name": "Laina Faber",
+            "email": "lfaber@amplify.com"
+        },
+        {
+            "name": "Amanda Borski",
+            "email": "amanda.borski@anytimefitness.com"
+        },
+        {
+            "name": "Michael Lopez",
+            "email": "mlopez@orangetheoryfitness.com"
+        },
+        {
+            "name": "Shai Kopeld",
+            "email": "sk@a16z.com"
+        },
+        {
+            "name": "Maud Pansing",
+            "email": "maud.pansing@clubpilates.com"
+        },
+        {
+            "name": "Jami-Kenzie Givler",
+            "email": "jami.givler@orangetheoryfitness.com"
+        },
+        {
+            "name": "Ellen McTigue",
+            "email": "ellen.mctigue@clubpilates.com"
+        },
+        {
+            "name": "Alice Hong",
+            "email": "alice@nutrafol.com"
+        },
+        {
+            "name": "Tiffany Molyneux",
+            "email": "tmolyneux@f45training.com"
+        },
+        {
+            "name": "Chris Wren",
+            "email": "chris.wren@idq.com"
+        },
+        {
+            "name": "Micheline Cherveny, CSM",
+            "email": "micheline.cherveny@paramount.com"
+        },
+        {
+            "name": "Andrew Altschuler",
+            "email": "andrew.altschuler@paramount.com"
+        },
+        {
+            "name": "Cameron Afzal",
+            "email": "cameron.afzal@dbtlabs.com"
+        },
+        {
+            "name": "Cassidy Hymas",
+            "email": "chymas@orangetheoryfitness.com"
+        },
+        {
+            "name": "Courtney Page",
+            "email": "courtney.page@clubpilates.com"
+        },
+        {
+            "name": "Joshua Fidler",
+            "email": "jfidler@forbes.com"
+        },
+        {
+            "name": "Peter Devincenzo",
+            "email": "bids@amplify.com"
+        },
+        {
+            "name": "Richa Jethwa",
+            "email": "jethwa@aegon.com"
+        },
+        {
+            "name": "David Berko",
+            "email": "david@sagerx.com"
+        },
+        {
+            "name": "Jay Brahmbhatt.",
+            "email": "jay.brahmbhatt@sagerx.com"
+        },
+        {
+            "name": "Sonia Daryani",
+            "email": "sonia.daryani@connorgrp.com"
+        },
+        {
+            "name": "Robert Weber",
+            "email": "rweber@a16z.com"
+        },
+        {
+            "name": "Cynthia Cote",
+            "email": "cynthia@arbonneinternational.com.au"
+        },
+        {
+            "name": "Lisa Senecal",
+            "email": "lsenecal@amplify.com"
+        },
+        {
+            "name": "Christina Biondi",
+            "email": "cbiondi@forbes.com"
+        },
+        {
+            "name": "Andie Taylor",
+            "email": "ataylor@a16z.com"
+        },
+        {
+            "name": "Kaitlyn Sullivan",
+            "email": "kaitlyn.sullivan@idq.com"
+        },
+        {
+            "name": "Arlene Levine",
+            "email": "larlene@arbonne.com"
+        },
+        {
+            "name": "Beigh Johnson",
+            "email": "bjohnson@f45training.com"
+        },
+        {
+            "name": "Jennifer Burkhardt",
+            "email": "jennifer@arbonneinternational.co.uk"
+        },
+        {
+            "name": "James Zeankowski",
+            "email": "james.zeankowski@paramount.com"
+        },
+        {
+            "name": "Melinda Soto",
+            "email": "melinda.soto@connorgrp.com"
+        },
+        {
+            "name": "Danielle Loyer",
+            "email": "danielle.loyer@sagerx.com"
+        },
+        {
+            "name": "Jordan Loredo",
+            "email": "jloredo@forbes.com"
+        },
+        {
+            "name": "Madison Taggart",
+            "email": "madison@nutrafol.com"
+        },
+        {
+            "name": "Sharon Knecht",
+            "email": "sharon.knecht@nutrafol.com"
+        },
+        {
+            "name": "Selena Chavez",
+            "email": "selena.chavez@connorgrp.com"
+        },
+        {
+            "name": "Shravan Narula",
+            "email": "shravan@thesmalldatastore.com"
+        }
+    ]
+}
